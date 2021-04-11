@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/deploytodo/static/css/main.a14ac8b8.chunk.css",
-    "main.js": "/deploytodo/static/js/main.5de62173.chunk.js",
-    "main.js.map": "/deploytodo/static/js/main.5de62173.chunk.js.map",
+    "main.css": "/deploytodo/static/css/main.29d13ec4.chunk.css",
+    "main.js": "/deploytodo/static/js/main.de6f987c.chunk.js",
+    "main.js.map": "/deploytodo/static/js/main.de6f987c.chunk.js.map",
     "runtime-main.js": "/deploytodo/static/js/runtime-main.8b22fdd9.js",
     "runtime-main.js.map": "/deploytodo/static/js/runtime-main.8b22fdd9.js.map",
     "static/js/2.ddc2da92.chunk.js": "/deploytodo/static/js/2.ddc2da92.chunk.js",
     "static/js/2.ddc2da92.chunk.js.map": "/deploytodo/static/js/2.ddc2da92.chunk.js.map",
     "index.html": "/deploytodo/index.html",
-    "static/css/main.a14ac8b8.chunk.css.map": "/deploytodo/static/css/main.a14ac8b8.chunk.css.map",
+    "static/css/main.29d13ec4.chunk.css.map": "/deploytodo/static/css/main.29d13ec4.chunk.css.map",
     "static/js/2.ddc2da92.chunk.js.LICENSE.txt": "/deploytodo/static/js/2.ddc2da92.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b22fdd9.js",
     "static/js/2.ddc2da92.chunk.js",
-    "static/css/main.a14ac8b8.chunk.css",
-    "static/js/main.5de62173.chunk.js"
+    "static/css/main.29d13ec4.chunk.css",
+    "static/js/main.de6f987c.chunk.js"
   ]
 }
